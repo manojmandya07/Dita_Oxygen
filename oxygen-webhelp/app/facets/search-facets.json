@@ -1,0 +1,60 @@
+
+ { "facets" : 
+  [ 
+   { "key" : "season",
+    "navtitle" : "Flowers by Season",
+    "categories" : 
+    [ 
+     { "key" : "spring",
+      "navtitle" : "Spring",
+      "categories" : 
+      [  ] },
+     
+     { "key" : "summer",
+      "navtitle" : "Summer",
+      "categories" : 
+      [  ] },
+     
+     { "key" : "autumn",
+      "navtitle" : "Autumn",
+      "categories" : 
+      [  ] },
+     
+     { "key" : "winter",
+      "navtitle" : "Winter",
+      "categories" : 
+      [  ] } ] },
+   
+   { "key" : "family",
+    "navtitle" : "Flowers by Family",
+    "categories" : 
+    [ 
+     { "key" : "iridaceae",
+      "navtitle" : "Iridaceae",
+      "categories" : 
+      [  ] },
+     
+     { "key" : "amaryllidaceae",
+      "navtitle" : "Amaryllidaceae",
+      "categories" : 
+      [  ] },
+     
+     { "key" : "rubiaceae",
+      "navtitle" : "Rubiaceae",
+      "categories" : 
+      [  ] },
+     
+     { "key" : "oleaceae",
+      "navtitle" : "Oleaceae",
+      "categories" : 
+      [  ] },
+     
+     { "key" : "asteraceae",
+      "navtitle" : "Asteraceae",
+      "categories" : 
+      [  ] },
+     
+     { "key" : "lamiaceae",
+      "navtitle" : "Lamiaceae",
+      "categories" : 
+      [  ] } ] } ] }
